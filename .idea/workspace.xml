@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd4dae1-aca8-4c28-967f-18c415f52054" name="Default Changelist" comment="" />
+    <list default="true" id="cdd4dae1-aca8-4c28-967f-18c415f52054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/condicionales/if.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/any.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/any.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/aplicacion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/aplicacion.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/arreglos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/arreglos.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/booleano.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/booleano.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/interfaces.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/objetos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/objetos.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/texto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDatos/texto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicacion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicacion.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/booleano.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/booleano.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texto.ts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +44,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wxbbjTi71PKyEf9CxcLzIYhjks" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -44,17 +78,45 @@
       <workItem from="1629477749420" duration="626000" />
       <workItem from="1629494814807" duration="998000" />
       <workItem from="1630083540993" duration="2422000" />
+      <workItem from="1630094965087" duration="889000" />
+      <workItem from="1630513978600" duration="212000" />
+      <workItem from="1630514768521" duration="5569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/aplicacion.js" />
-        <option value="$PROJECT_DIR$/booleano.js" />
-      </list>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="102" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629407750171">
